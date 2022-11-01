@@ -1,0 +1,70 @@
+#Learnt Things...
+T/F
+    True
+    False
+    print("str" in var) :- checking presence
+
+Operators:-
+    Power = "**"
+    Multiplaction = "*"
+    Division = "/"
+    Floor_Division="//"
+
+Strings:-
+    var = var[Start Number:End Number:Step] :- This is called slicing
+    Case :-
+        var.capitalize() :- eg:- Pragyan. So it makes the first letter capital of a whole string.
+        var.casefold() or var.lower() :- Converts the whole string into lower case.
+        var.upper() :- makes all the letters into capital.
+        var.swapcase() :- swap cases - capital -> lower and lower -> capital
+        var.count() :- counts all the special characters, numbers and letters and returns a number.
+        var.title() :- makes the first letters of all the words in a string
+    String formating :-
+        "#".join(var) -> var content eg. hi -> h#i :- So it places the this at the front in the thing in the bracket.
+        var.strip("item you want to cut out") :- it slices what ever you put in the brackets from the var.
+        var.rstrip("item you want to cut out on the right side") :- it slices what ever you put in the brackets from the var on the right side.
+        var.lstrip("item you want to cut out on the left side") :- it slices what ever you put in the brackets from the var on the left side.
+        var.split() :-  it splits all the words in diffrent list cells.
+    String Statments - Boolian :-
+        var.identifier() :-  if the str starts from a letter and does not contain a special character this will be True
+        var.isalpha() :- Returns 'True' if a string only contains letters.
+        var.isalnum() :- Returns 'True' if a string contains letters and numbers both but not spaces and any special characters.       
+
+Normal Functions:-
+    Replace = "var.replace(orignal,replace)"
+    Find = "var.find('letter')"
+    Checking_Presence = print(item in var/list)
+    round = ("Rounding Off A Number")
+    ABS = ("Changes Value To Possitive")
+    len = to get the length of a string,etc.
+    Type() = To check the data type.
+
+If statements:-
+    if var :
+    if not var :
+
+Lists:-
+    list.append(text to add)    :- To add anything at the end of a list
+    list.insert(place, number)  :- To insert anything at any place in a list
+    list.remove(place)          :- To remove any item from a list
+    list.clear()                :- To clear a list
+    list.pop()                  :- To remove the last item in a list
+    list.index(item)            :- To know the position of an item in a list
+    list.count(item)            :- To check to ammount of that item is there in a list
+    list.copy()	                :- Returns a copy of the list
+    list.extend()               :- Add the elements of a list (or any iterable), to the end of the current list
+    list.reverse()              :- Reverses the order of the list
+    list.sort()	                :- Sorts the list
+
+Dictonaries:-
+    var         =   zip(dict1, dict2)
+    clear()     = 	Removes all the elements from the dictionary
+    copy()      =   Returns a copy of the dictionary
+    get()       =   Returns the value of the specified key
+    items()     =   Returns a list containing a tuple for each key value pair
+    keys()      =   Returns a list containing the dictionary's keys
+    pop()       =   Removes the element with the specified key
+    popitem()   =   Removes the last inserted key-value pair
+    setdefault() =  Returns the value of the specified key. If the key does not exist: insert the key, with the specified value
+    update()    =   Updates the dictionary with the specified key-value pairs
+    values()    =  Returns a list of all the values in the dictionary
