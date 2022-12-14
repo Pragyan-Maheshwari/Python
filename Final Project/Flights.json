@@ -1,0 +1,38 @@
+[
+
+    {"Serial no.":1,
+    "From":"Delhi",
+    "Destination":"London",
+    "Boarding Time":"5am, 20th December 2022",
+    "Arival Time":"4am, 21th December 2022",
+    "Seats Left":30},
+
+    {"Serial no.":2,
+    "From":"Hyderabad",
+    "Destination":"Goa",
+    "Boarding Time":"5am, 20th December 2022",
+    "Arival Time":"4am, 21th December 2022",
+    "Seats Left":28},
+    
+    {"Serial no.":3,
+    "From":"Delhi",
+    "Destination":"China",
+    "Boarding Time":"5am, 20th December 2022",
+    "Arival Time":"4am, 21th December 2022",
+    "Seats Left":29},
+    
+    {"Serial no.":4,
+    "From":"Copenhegen",
+    "Destination":"New York",
+    "Boarding Time":"5am, 20th December 2022",
+    "Arival Time":"4am, 21th December 2022",
+    "Seats Left":30},
+    
+    {"Serial no.":5,
+    "From":"Washington",
+    "Destination":"Hyderabad",
+    "Boarding Time":"5am, 20th December 2022",
+    "Arival Time":"4am, 21th December 2022",
+    "Seats Left":30}
+    
+]

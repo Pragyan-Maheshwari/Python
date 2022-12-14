@@ -1,0 +1,1 @@
+In code the buttons are apearing on the main code tk window not on the admin tk window.

@@ -6,7 +6,7 @@ from PIL import ImageTk,Image
 window = tink.Tk()
 window.title("Happy Diwali")
 window.minsize(width=600, height=600)
-window.geometry("600x600")
+window.geometry("1300x700")
 
 lable = tink.Label(text = "Happy Diwali",font = ("Elephant",100,"bold"),bg='Red')
 lable.pack(side="top")

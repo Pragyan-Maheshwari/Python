@@ -1,0 +1,19 @@
+[
+    {"Serial No." : 1,
+    "Name" : "Ramesh",
+    "Flight":"2",
+    "Age":34,
+    "Gender": "Male"},
+
+    {"Serial No." : 2,
+    "Name" : "Rohini",
+    "Flight":"2",
+    "Age":33,
+    "Gender": "Female"},
+
+    {"Serial No." : 3,
+    "Name" : "Ankit",
+    "Flight":"3",
+    "Age":27,
+    "Gender": "Male"}
+]
